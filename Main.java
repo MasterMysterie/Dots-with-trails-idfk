@@ -66,7 +66,7 @@ public class Main extends PApplet{
 		else if(key == 'c') {
 			clear = ! clear;
 		}
-		else if(key == 't') {
+		else if(key == 't') {     //nice
 			trail = ! trail;
 		}
 		else if(key == 'p') {
